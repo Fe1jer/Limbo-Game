@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd703b8da5d257440bb480e66dfc290a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonsMenu: {instanceID: 0}
+  - buttonsExit: {fileID: 584678132128332091, guid: 89c8b96d3bd30d343b52d382b1a62310,
+      type: 3}
+  - buttonsSetting: {fileID: 3985482034041180467, guid: 2112dc548dbfdf643ba2bf591c0707e0,
+      type: 3}
+  - audioMixer: {instanceID: 0}
+  - resolutionDropdown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
